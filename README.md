@@ -1,2 +1,2 @@
-# dwrs
+# [Dawarishi].github.com
 none
